@@ -1,7 +1,7 @@
 # About Me:
 🔭 I’m currently working on Turning caffeine and code into scalable cloud solutions ☁️ — building AWS and DevOps projects as part of my journey at Executive Post Graduate Certification in Cloud Computing at IIT Roorkee.<br>👯 I’m looking to collaborate on Anything that involves the cloud, DevOps pipelines, or breaking things in a sandbox so we can fix them better together 🚀.<br>🤝 I’m looking for help with Making my cloud architectures bulletproof (and wallet-friendly 💸), and exploring real-world applications of Kubernetes and DevSecOps.<br>🌱 I’m currently learning AWS, Azure, Linux, Python, CI/CD, Docker, Kubernetes… basically, how to speak fluent “Cloud”.<br>💬 Ask me about Why DevOps is more about culture than just tools, how to start your AWS journey, or how to make CI/CD pipelines that just work™.<br>⚡ Fun fact: I think “serverless” is just a fancy way of saying someone else’s server is now your problem. 
 
-📚 **Technical Blog:** [dev.to/cloudwithharry](https://dev.to/cloudwithharry) - Sharing AWS implementations, cost optimization strategies, and real-world cloud architectures. <br>
+📚 **Technical Blog:** [dev.to/cloudwithharry](https://dev.to/cloudwithharry_v26) - Sharing AWS implementations, cost optimization strategies, and real-world cloud architectures. <br>
 💡 All blog posts include complete GitHub repositories with automation scripts, configurations, and detailed documentation! <br>
 ## 🚀 Featured Projects & Case Studies:
 [![AWS S3 Multi-Feature Case Study](https://img.shields.io/badge/AWS%20S3-Storage%20&%20Website%20Hosting-orange?logo=amazon-aws)](https://github.com/himanshu2604/s3-storage-website-casestudy)
