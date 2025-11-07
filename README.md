@@ -3,11 +3,12 @@
 
 📚 **Technical Blog:** [dev.to/cloudwithharry](https://dev.to/cloudwithharry_v26) - Sharing AWS implementations, cost optimization strategies, and real-world cloud architectures. <br>
 💡 All blog posts include complete GitHub repositories with automation scripts, configurations, and detailed documentation! <br>
-## 🚀 Featured Projects & Case Studies:
-[![AWS S3 Multi-Feature Case Study](https://img.shields.io/badge/AWS%20S3-Storage%20&%20Website%20Hosting-orange?logo=amazon-aws)](https://github.com/himanshu2604/s3-storage-website-casestudy)
-[![AWS Multi-Tier-Website-Using-AWS-EC2](https://img.shields.io/badge/AWS%20S3-Storage%20&%20Website%20Hosting-orange?logo=amazon-aws)](https://github.com/himanshu2604/Multi-Tier-Websit-Using-AWS-EC2)
-[![AWS VPC Multi-Tier Architecture & Peering](https://img.shields.io/badge/AWS%20EC2-Multi--Region%20Architecture-orange?logo=amazon-aws)](https://github.com/himanshu2604/aws-vpc-architecture-solution)
-[![Auto-Scaling Solution](https://img.shields.io/badge/AWS-Auto%20Scaling%20Infrastructure-orange?logo=amazon-aws)](https://github.com/himanshu2604/ELB-ASG-Casestudy)
+🚀 **Featured Projects & Case Studies:**
+
+[![AWS S3](https://img.shields.io/badge/AWS%20S3-Storage%20&%20Website%20Hosting-FF9900?style=flat-square&logo=amazons3&logoColor=white)](https://github.com/himanshu2604/s3-storage-website-casestudy)
+[![AWS EC2](https://img.shields.io/badge/AWS%20EC2-Multi--Tier%20Website-FF9900?style=flat-square&logo=amazonec2&logoColor=white)](https://github.com/himanshu2604/Multi-Tier-Websit-Using-AWS-EC2)
+[![AWS VPC](https://img.shields.io/badge/AWS%20VPC-Multi--Region%20Architecture-FF9900?style=flat-square&logo=amazonvpc&logoColor=white)](https://github.com/himanshu2604/aws-vpc-architecture-solution)
+[![Auto Scaling](https://img.shields.io/badge/AWS-Auto%20Scaling%20Infrastructure-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/himanshu2604/ELB-ASG-Casestudy)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himanshu_nehete07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HimanshuNehete) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshunehete2025@gmail.com) 
