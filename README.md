@@ -5,7 +5,8 @@
 💡 All blog posts include complete GitHub repositories with automation scripts, configurations, and detailed documentation! <br>
 ## 🚀 Featured Projects & Case Studies:
 [![AWS S3 Multi-Feature Case Study](https://img.shields.io/badge/AWS%20S3-Storage%20&%20Website%20Hosting-orange?logo=amazon-aws)](https://github.com/himanshu2604/s3-storage-website-casestudy)
-[![EC2 Multi-Region Infrastructure](https://img.shields.io/badge/AWS%20EC2-Multi--Region%20Architecture-orange?logo=amazon-aws)](https://github.com/himanshu2604/ec2-ebs-casestudy)
+[![AWS Multi-Tier-Website-Using-AWS-EC2](https://img.shields.io/badge/AWS%20S3-Storage%20&%20Website%20Hosting-orange?logo=amazon-aws)](https://github.com/himanshu2604/Multi-Tier-Websit-Using-AWS-EC2)
+[![AWS VPC Multi-Tier Architecture & Peering](https://img.shields.io/badge/AWS%20EC2-Multi--Region%20Architecture-orange?logo=amazon-aws)](https://github.com/himanshu2604/aws-vpc-architecture-solution)
 [![Auto-Scaling Solution](https://img.shields.io/badge/AWS-Auto%20Scaling%20Infrastructure-orange?logo=amazon-aws)](https://github.com/himanshu2604/ELB-ASG-Casestudy)
 
 ## 🌐 Socials:
